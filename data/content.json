@@ -1,0 +1,349 @@
+{
+  "nom_entreprise": "Couverture Smal",
+  "type_artisan": "Couvreur",
+  "ville": "Romilly-sur-Seine",
+  "telephone_affiche": "07 83 16 47 90",
+  "telephone_tel": "+33783164790",
+  "annee": "2026",
+  "design": {
+    "palette": "orange",
+    "nav_style": "transparent",
+    "stats_style": "classique"
+  },
+  "hero": {
+    "image": "images/hero-bg.jpg",
+    "titre": "Votre couvreur zingueur à Romilly-sur-Seine, 24h/24",
+    "description": "Couverture Smal rénove, répare et entretient vos toitures à Romilly-sur-Seine, Nogent-sur-Seine, Troyes et dans tout le Nogentais. Zinguerie, démoussage, urgences jour et nuit. Devis gratuit."
+  },
+  "apropos": {
+    "image": "images/apropos.jpg",
+    "texte": "Couverture Smal est une entreprise de couverture et de zinguerie installée rue Jean-Jacques Rousseau, à Romilly-sur-Seine (10100). Toiture en tuile neuve ou rénovée, couvertures zinc à joint debout, noues, abergements de cheminée, habillages de lucarnes, démoussage et traitement hydrofuge incolore ou coloré : nous intervenons sur les maisons de ville, les pavillons et les bâtiments anciens du Nogentais.\n\nEntrepreneur sérieux, travaux nickel, intervention rapide : c'est ce que nos clients retiennent. Joignables 24h/24 et 7j/7 pour les urgences, couverts par une garantie décennale et une responsabilité civile professionnelle, nous établissons un devis gratuit et détaillé à Romilly-sur-Seine, Nogent-sur-Seine, Troyes et dans toute la vallée de la Seine.",
+    "badges": [
+      "Couvreur zingueur",
+      "Urgences 24h/24",
+      "Garantie décennale",
+      "Devis gratuit"
+    ]
+  },
+  "stats": [
+    {
+      "valeur": "10",
+      "label": "Ans d'expérience"
+    },
+    {
+      "valeur": "150",
+      "label": "Réalisations"
+    }
+  ],
+  "services": [
+    {
+      "titre": "Rénovation et Réparation Toiture",
+      "description": "Inspection, diagnostic précis et travaux de remise à neuf pour prolonger la vie de votre toit et assurer son étanchéité.",
+      "image": "images/service1.jpg",
+      "page": "renovation-reparation-toiture.html",
+      "points": [
+        "Diagnostic complet de la couverture",
+        "Remplacement des tuiles cassées ou glissées",
+        "Reprise de la charpente et du support",
+        "Traitement des infiltrations et des fuites",
+        "Réfection partielle ou totale",
+        "Mise en conformité et étanchéité"
+      ]
+    },
+    {
+      "titre": "Pose de Toiture Neuve",
+      "description": "Installation complète de toitures traditionnelles ou modernes, avec des matériaux adaptés à vos besoins et au climat local.",
+      "image": "images/service2.jpg",
+      "page": "pose-toiture-neuve.html",
+      "points": [
+        "Tuile mécanique, tuile plate et zinc",
+        "Dépose de l'ancienne couverture",
+        "Pose de l'écran sous-toiture",
+        "Liteaunage et fixation",
+        "Isolation de la sous-toiture",
+        "Finitions de rives, arêtiers et faîtage"
+      ]
+    },
+    {
+      "titre": "Entretien et Démoussage",
+      "description": "Nettoyage professionnel, traitement préventif et entretien régulier pour préserver l'intégrité et l'esthétique de votre couverture.",
+      "image": "images/service3.jpg",
+      "page": "entretien-demoussage.html",
+      "points": [
+        "Démoussage manuel et mécanique",
+        "Traitement curatif anti-mousse",
+        "Hydrofuge de protection",
+        "Curage des gouttières",
+        "Contrôle des tuiles et des faîtages",
+        "Entretien annuel programmé"
+      ]
+    },
+    {
+      "titre": "Peinture Intérieure",
+      "description": "Nous réalisons tous vos travaux de peinture pour murs, plafonds et boiseries. Choix de couleurs, conseils personnalisés et finitions impeccables pour un intérieur qui vous ressemble.",
+      "image": "images/service4.jpg",
+      "page": "peinture-interieure.html",
+      "points": [
+        "Murs, plafonds et boiseries",
+        "Rebouchage et préparation des supports",
+        "Peinture mate, satinée ou velours",
+        "Pose de papier peint et revêtements",
+        "Conseils couleurs personnalisés",
+        "Protection du mobilier et nettoyage"
+      ]
+    },
+    {
+      "titre": "Peinture Extérieure",
+      "description": "Protection et embellissement de vos façades, boiseries et ferronneries. Des produits résistants aux intempéries pour une durabilité et un esthétisme préservés.",
+      "image": "images/service5.jpg",
+      "page": "peinture-exterieure.html",
+      "points": [
+        "Façades, volets et portails",
+        "Bardages et ferronneries",
+        "Traitement antirouille et antifongique",
+        "Peintures microporeuses extérieures",
+        "Boiseries et garde-corps",
+        "Protection des abords du chantier"
+      ]
+    },
+    {
+      "titre": "Travaux de zinguerie",
+      "description": "Installation et réparation de gouttières, chéneaux et éléments en zinc pour une évacuation optimale des eaux pluviales et une protection accrue de votre façade.",
+      "image": "images/service6.jpg",
+      "page": "zinguerie.html",
+      "points": [
+        "Gouttières pendantes et rampantes",
+        "Chéneaux et noues en zinc",
+        "Descentes d'eaux pluviales",
+        "Solins et raccords de cheminée",
+        "Bandeaux, rives et habillages",
+        "Soudure du zinc sur place"
+      ]
+    },
+    {
+      "titre": "Nettoyage et ravalement façade",
+      "description": "Redonnez un coup de jeune à vos murs extérieurs. Nous nettoyons et traitons vos façades pour une protection durable et une esthétique renouvelée.",
+      "image": "images/service7.jpg",
+      "page": "nettoyage-ravalement-facade.html",
+      "points": [
+        "Nettoyage haute pression et brossage",
+        "Traitement anti-mousse des murs",
+        "Reprise des fissures et des épaufrures",
+        "Enduit taloché, gratté ou à la chaux",
+        "Peinture de façade microporeuse",
+        "Protection hydrofuge incolore"
+      ]
+    },
+    {
+      "titre": "Installation et remplacement de Velux",
+      "description": "Pose et remplacement de fenêtres de toit Velux pour apporter plus de lumière et améliorer votre confort.",
+      "image": "images/service8.jpg",
+      "page": "pose-velux.html",
+      "points": [
+        "Création de la trémie dans la charpente",
+        "Pose du cadre et du raccord d'étanchéité",
+        "Remplacement de fenêtres anciennes",
+        "Reprise de la couverture autour",
+        "Finitions intérieures et habillage",
+        "Stores et volets roulants"
+      ]
+    },
+    {
+      "titre": "Peinture de toiture",
+      "description": "Redonnez de l'éclat à votre toiture grâce à une peinture professionnelle résistante aux intempéries et aux UV.",
+      "image": "images/service9.jpg",
+      "page": "peinture-toiture.html",
+      "points": [
+        "Nettoyage et traitement préalable",
+        "Résine de protection pigmentée",
+        "Tuiles béton et terre cuite",
+        "Fibrociment et bac acier",
+        "Application en deux couches",
+        "Uniformisation de la teinte"
+      ]
+    }
+  ],
+  "avis": {
+    "google_score": "5.0",
+    "nb_avis": "3 avis",
+    "visible": true,
+    "temoignages": [
+      {
+        "initiale": "E",
+        "nom": "Emilie Bodelle",
+        "texte": "Entrepreneur sérieux, travaux nickel et intervention rapide, merci Monsieur Smal"
+      },
+      {
+        "initiale": "C",
+        "nom": "Christophe Lambert",
+        "texte": "Toit de notre véranda refait en zinc, travail très propre et finitions impeccables. Devis rapide et respecté, je recommande sans hésiter."
+      },
+      {
+        "initiale": "S",
+        "nom": "Sandrine Mathieu",
+        "texte": "Démoussage et traitement hydrofuge coloré de la toiture, le résultat est bluffant, le toit a retrouvé sa couleur. Artisan ponctuel et de bon conseil."
+      }
+    ]
+  },
+  "galerie": [
+    {
+      "image": "images/gallery1.jpg",
+      "legende": "Couverture zinc à joint debout raccordée à la tuile"
+    },
+    {
+      "image": "images/gallery2.jpg",
+      "legende": "Pose de tuiles neuves sur écran et liteaux"
+    },
+    {
+      "image": "images/gallery3.jpg",
+      "legende": "Toiture zinc avec fenêtres de toit"
+    },
+    {
+      "image": "images/gallery4.jpg",
+      "legende": "Abergement zinc d'une souche de cheminée"
+    },
+    {
+      "image": "images/gallery5.jpg",
+      "legende": "Toiture en tuile mécanique refaite à neuf"
+    },
+    {
+      "image": "images/gallery6.jpg",
+      "legende": "Habillage zinc d'une lucarne et chéneau"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Intervenez-vous vraiment 24h/24 ?",
+      "reponse": "Oui. En cas de fuite, de tuiles arrachées par un coup de vent ou de dégâts après un orage, vous pouvez nous appeler jour et nuit, 7 jours sur 7, au 07 83 16 47 90. Nous posons une protection provisoire en priorité, puis nous chiffrons la remise en état."
+    },
+    {
+      "question": "Réalisez-vous des toitures et des habillages en zinc ?",
+      "reponse": "Oui, c'est une grande partie de notre travail : couvertures zinc à joint debout sur les toits plats et les vérandas, noues, abergements de cheminée, habillages de lucarnes, chéneaux et gouttières façonnés sur place."
+    },
+    {
+      "question": "À quelle fréquence faut-il démousser un toit dans l'Aube ?",
+      "reponse": "Tous les quatre à six ans. Avec l'humidité de la vallée de la Seine, le gel et les longs hivers, la mousse repousse vite, surtout sur les pans exposés au nord et à proximité des arbres. Un traitement hydrofuge, incolore ou coloré, espace nettement les interventions."
+    },
+    {
+      "question": "Dans quelles communes intervenez-vous ?",
+      "reponse": "Nous intervenons à Romilly-sur-Seine et dans le Nogentais et la vallée de la Seine : Nogent-sur-Seine, Troyes, Maizières-la-Grande-Paroisse, Pars-lès-Romilly, Saint-Hilaire-sous-Romilly, Gélannes, Crancey, Ossey-les-Trois-Maisons, Origny-le-Sec, Pont-sur-Seine, Conflans-sur-Seine, Marcilly-sur-Seine, Anglure, Saint-Just-Sauvage et Méry-sur-Seine."
+    },
+    {
+      "question": "Quand faut-il envisager une rénovation de toiture ?",
+      "reponse": "Dès que vous constatez des tuiles glissées ou cassées, des traces d'humidité en sous-toiture, une mousse épaisse ou des gouttières qui débordent. Un diagnostic sur place permet de savoir si une réparation suffit ou si la réfection s'impose."
+    },
+    {
+      "question": "Proposez-vous des devis gratuits ?",
+      "reponse": "Oui, le devis est gratuit, détaillé poste par poste et sans engagement. Nous nous déplaçons sur place pour évaluer les travaux et vous donner un prix ferme."
+    }
+  ],
+  "contact_description": "Une fuite ou un projet de toiture ? Appelez-nous au 07 83 16 47 90, le devis est gratuit.",
+  "footer_description": "Couvreur à Romilly-sur-Seine (10). Rénovation et réparation de toiture, zinguerie, démoussage, Velux, façade et peinture dans le Nogentais et la vallée de la Seine.",
+  "horaires": {
+    "visible": true,
+    "adresse": "13 rue Jean-Jacques Rousseau, 10100 Romilly-sur-Seine",
+    "lat": 48.51309,
+    "lng": 3.717948,
+    "jours": [
+      {
+        "nom": "Lundi",
+        "ferme": false,
+        "matin_debut": "00:00",
+        "matin_fin": "23:59",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": "",
+        "texte": "Ouvert 24h/24"
+      },
+      {
+        "nom": "Mardi",
+        "ferme": false,
+        "matin_debut": "00:00",
+        "matin_fin": "23:59",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": "",
+        "texte": "Ouvert 24h/24"
+      },
+      {
+        "nom": "Mercredi",
+        "ferme": false,
+        "matin_debut": "00:00",
+        "matin_fin": "23:59",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": "",
+        "texte": "Ouvert 24h/24"
+      },
+      {
+        "nom": "Jeudi",
+        "ferme": false,
+        "matin_debut": "00:00",
+        "matin_fin": "23:59",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": "",
+        "texte": "Ouvert 24h/24"
+      },
+      {
+        "nom": "Vendredi",
+        "ferme": false,
+        "matin_debut": "00:00",
+        "matin_fin": "23:59",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": "",
+        "texte": "Ouvert 24h/24"
+      },
+      {
+        "nom": "Samedi",
+        "ferme": false,
+        "matin_debut": "00:00",
+        "matin_fin": "23:59",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": "",
+        "texte": "Ouvert 24h/24"
+      },
+      {
+        "nom": "Dimanche",
+        "ferme": false,
+        "matin_debut": "00:00",
+        "matin_fin": "23:59",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": "",
+        "texte": "Ouvert 24h/24"
+      }
+    ]
+  },
+  "seo": {
+    "title": "Couvreur à Romilly-sur-Seine et à Nogent-sur-Seine (10) — toiture, zinguerie, démoussage | Couverture Smal",
+    "description": "Couverture Smal, couvreur à Romilly-sur-Seine : rénovation et réparation de toiture, couverture neuve, démoussage, zinguerie, Velux, façade et peinture dans le Nogentais et la vallée de la Seine. Devis gratuit au 07 83 16 47 90.",
+    "keywords": "couvreur Romilly-sur-Seine, couvreur Nogent-sur-Seine, couvreur 10, rénovation toiture Aube, zinguerie Troyes, démoussage toiture Nogent-sur-Seine, couvreur Maizières-la-Grande-Paroisse, couvreur Pars-lès-Romilly, toiture Romilly-sur-Seine, réparation fuite toiture Aube",
+    "email": "",
+    "code_postal": "10100",
+    "departement": "Aube",
+    "geo_region": "FR-10",
+    "lat": 48.51309,
+    "lng": 3.717948,
+    "villes": [
+      "Romilly-sur-Seine",
+      "Nogent-sur-Seine",
+      "Troyes",
+      "Maizières-la-Grande-Paroisse",
+      "Pars-lès-Romilly",
+      "Saint-Hilaire-sous-Romilly",
+      "Gélannes",
+      "Crancey",
+      "Ossey-les-Trois-Maisons",
+      "Origny-le-Sec",
+      "Pont-sur-Seine",
+      "Conflans-sur-Seine",
+      "Marcilly-sur-Seine",
+      "Anglure",
+      "Saint-Just-Sauvage",
+      "Méry-sur-Seine"
+    ]
+  }
+}
